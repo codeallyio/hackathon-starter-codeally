@@ -14,6 +14,7 @@
   "scripts": {
     "postinstall": "npm rebuild node-sass",
     "start": "node app.js",
+    "startDb": "mkdir db && mongod --dbpath=./db",
     "test": "nyc mocha --timeout=10000 --exit",
     "lint": "eslint \"**/*.js\""
   },
