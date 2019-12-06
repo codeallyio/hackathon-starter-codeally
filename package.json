@@ -1,7 +1,7 @@
 {
-  "name": "hackathon-starter",
+  "name": "hackathon-starter-strove",
   "version": "5.2.0",
-  "description": "A boilerplate for Node.js web applications",
+  "description": "A boilerplate for Node.js web applications, tailored to use inside Strove.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/sahat/hackathon-starter.git"

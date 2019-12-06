@@ -1,0 +1,4 @@
+{
+    "init": "cd .. && mongod --dbpath=./db",
+    "ports": ["27017"]
+}
