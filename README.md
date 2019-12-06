@@ -14,7 +14,7 @@ cd hackathon-starter-strove
 # Run database
 yarn startDb
 
-# Now, in open another terminal and type
+# Now, open another terminal and type
 yarn start
 ```
 
