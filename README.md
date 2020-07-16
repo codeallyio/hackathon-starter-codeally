@@ -1,7 +1,10 @@
-Copy to two terminal tabs to run the project
+To run the project
+```bash
+# Run database
 yarn startDb
+# Now, open another terminal and type
 yarn start
-
+```
 
 ![](https://lh4.googleusercontent.com/-PVw-ZUM9vV8/UuWeH51os0I/AAAAAAAAD6M/0Ikg7viJftQ/w1286-h566-no/hackathon-starter-logo.jpg)
 Hackathon Starter - example with Strove
@@ -11,14 +14,10 @@ Hackathon Starter - example with Strove
 
 Go to [https://github.com/stroveio/hackathon-starter-strove](https://github.com/stroveio/hackathon-starter-strove)
 
-Once the project starts open terminal and type
+To run the project
 ```bash
-# Change directory
-cd hackathon-starter-strove
-
 # Run database
 yarn startDb
-
 # Now, open another terminal and type
 yarn start
 ```
