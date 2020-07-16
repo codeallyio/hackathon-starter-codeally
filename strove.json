@@ -1,4 +1,3 @@
 {
-  "init": "cd hackathon-starter-strove && yarn && yarn startDb && yarn start",
-  "ports": ["27017"]
+  "init": "cd hackathon-starter-strove && yarn && yarn startDb"
 }
