@@ -1,3 +1,3 @@
 {
-  "init": "cd hackathon-starter-strove && yarn"
+  "init": "cd hackathon-starter-codeally && yarn"
 }
