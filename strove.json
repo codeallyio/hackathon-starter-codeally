@@ -1,3 +1,4 @@
 {
-  "init": "cd hackathon-starter-codeally && yarn"
+  "init": "cd hackathon-starter-codeally && yarn",
+  "extensions": ["coderoad.coderoad"]
 }
