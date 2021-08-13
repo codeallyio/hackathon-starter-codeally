@@ -12,9 +12,6 @@ Hackathon Starter - example with CodeAlly
 =======================
 
 **How to get started**:
-
-Go to [https://github.com/stroveio/hackathon-starter-strove](https://github.com/stroveio/hackathon-starter-strove)
-
 To run the project
 ```bash
 # Run database
