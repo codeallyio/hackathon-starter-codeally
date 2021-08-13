@@ -1,6 +1,7 @@
 To run the project
 ```bash
 # Run database
+yarn
 yarn startDb
 # Now, open another terminal and type
 yarn start
